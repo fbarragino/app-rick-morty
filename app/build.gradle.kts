@@ -62,7 +62,7 @@ dependencies {
     implementation("androidx.navigation:navigation-compose:2.9.7")
 
     // ViewModel
-    implementation("androidx.lyfecycle:lifecycle-runtime-compose:2.10.0")
+    implementation("androidx.lifecycle:lifecycle-runtime-compose:2.10.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.10.0")
 
     // Cliente HTTP, parser JSON, Converter JSON a data class
